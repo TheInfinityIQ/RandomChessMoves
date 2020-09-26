@@ -6,8 +6,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\RandomChessMoves.Lib\RandomChessMoves.Lib.csproj" />
-  </ItemGroup>
-
 </Project>
