@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.App", "Chess.App\Chess.App.csproj", "{C1C2B0F8-8E25-4FD5-A6AB-AC1CC2EB8AF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Game", "Chess.App\Chess.Game.csproj", "{C1C2B0F8-8E25-4FD5-A6AB-AC1CC2EB8AF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Lib", "Chess.Lib\Chess.Lib.csproj", "{BF30AF92-56A6-4C67-A2F1-87D0F28E7D0C}"
 EndProject
