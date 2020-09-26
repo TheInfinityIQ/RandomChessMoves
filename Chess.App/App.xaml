@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:Chess.Game"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <local:ViewModelLocator x:Key="Locator" xmlns:vm="clr-namespace:Chess.Lib.ViewModels;assembly=Chess.Lib"/>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

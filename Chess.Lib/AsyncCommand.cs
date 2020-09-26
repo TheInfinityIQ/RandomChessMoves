@@ -1,9 +1,10 @@
-﻿using System;
+﻿using Chess.Lib;
+using System;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace Chess.Game
-{
+namespace Chess.Lib
+{ 
     public class AsyncCommand : IAsyncCommand
     {
         public event EventHandler CanExecuteChanged;

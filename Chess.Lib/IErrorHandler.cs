@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chess.Game
+namespace Chess.Lib
 {
     public interface IErrorHandler
     {

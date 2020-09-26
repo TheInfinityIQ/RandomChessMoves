@@ -1,7 +1,8 @@
-﻿using System;
+﻿using Chess.Lib;
+using System;
 using System.Threading.Tasks;
 
-namespace Chess.Game
+namespace Chess.Lib
 {
     public static class TaskUtilities
     {

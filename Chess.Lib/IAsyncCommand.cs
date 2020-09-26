@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace Chess.Game
+namespace Chess.Lib
 {
     public interface IAsyncCommand : ICommand
     {

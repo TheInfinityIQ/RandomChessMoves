@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace Chess.Game
+namespace Chess.Lib
 {
     public abstract class Observable : INotifyPropertyChanged
     {
